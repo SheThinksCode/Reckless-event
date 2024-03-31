@@ -3,7 +3,7 @@ body {
     width: 100%; 
     height: 100vh;
     background: purple;
-    background: linear-gradient (#111, #ae00ff);
+    background: linear-gradient (#111, #ff00ddc2);
     
 }
     
@@ -179,6 +179,9 @@ section {
 section p {
     font-size: 1.5em;
     color: #fff;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
 }
 
 section img {
