@@ -179,9 +179,7 @@ section {
 section p {
     font-size: 1.5em;
     color: #fff;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
+    text-align: center;
 }
 
 section img {
